@@ -14,14 +14,14 @@
 <body>
     <main>
 
-        <h2 class="message p-4"> “Me prepararé y algún día mi oportunidad vendrá.”
+        <h2 class="message p-4"> “Este esmy yo mas personal.”
         </h2>
         <br>
         <br>
         <br>
         <br>
         <br>
-        <h2 class="message mt-5"> -Abraham Lincoln- </h2>
+        <h2 class="message mt-5"> - No vemos - </h2>
 
         <div class="background">
             <div class="circle-container">
@@ -338,10 +338,11 @@
 
 html,
 body {
-    width: 100%;
-    height: 100%;
+    width: 9%8;
+    height: 98%;
     overflow: hidden;
-    background-image: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-color: grey;
+    background-image: url('https://raw.githubusercontent.com/d-maza/Cover-Letter/main/public/img/fonto.PNG');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

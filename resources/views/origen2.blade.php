@@ -443,7 +443,7 @@
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div
                 class="flex justify-center pt-8 sm:justify-start sm:pt-0  bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
-                <h1>Un camino lleno de aventuras</h1>
+                <h1>Un camino de aventuras</h1>
             </div>
 
             <div class=" mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
@@ -459,16 +459,7 @@
 
                     <div class="p-6 ">
                         <div class="flex items-center">
-                            <!-- <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
-                                <path
-                                    d="M2.5 15a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1h-11zm2-13v1c0 .537.12 1.045.337 1.5h6.326c.216-.455.337-.963.337-1.5V2h-7zm3 6.35c0 .701-.478 1.236-1.011 1.492A3.5 3.5 0 0 0 4.5 13s.866-1.299 3-1.48V8.35zm1 0v3.17c2.134.181 3 1.48 3 1.48a3.5 3.5 0 0 0-1.989-3.158C8.978 9.586 8.5 9.052 8.5 8.351z" />
-                            </svg> -->
-
-                            <!-- <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Sub titilo
-                            </div> -->
                         </div>
-
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-lg font-semibold">
                                 <p>Y así fue como empecé a formarme dentro del buceo. Con los años fui sacando más

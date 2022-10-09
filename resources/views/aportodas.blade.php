@@ -410,7 +410,7 @@
     }
 
     p {
-        color: darkslategray;
+
         text-align: justify;
         margin-right: 20px;
     }
